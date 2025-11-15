@@ -8,7 +8,7 @@
 **Client:** SOL Ltd  
 **Industry:** Professional Services  
 **Project Type:** Power Platform Solution Implementation  
-**Objective:** Automate and govern the end-to-end asset lifecycle — request, approval, allocation, and return — using Microsoft Power Platform.
+**Objective:** Automate and govern the end-to-end asset lifecycle; request, approval, allocation, and return  using Microsoft Power Platform.
 
 SOL Ltd relied on spreadsheets and manual email approvals to track company assets. This led to lost inventory visibility, duplicated requests, and audit failures.  
 To address these gaps, a **Model-Driven Power App** integrated with **Power Automate** and **Dataverse** was deployed.  
@@ -188,6 +188,6 @@ The **Asset Management App** is now a reusable enterprise framework that can sca
 
 **Developed by:**  
 **Solomon Okpuno**  
-Power Platform Consultant | Data & Automation Specialist  
+Power Platform Developer | Data & Automation Specialist  
 [LinkedIn](https://linkedin.com/in/solomon-okpuno-51a907312) | [GitHub](https://github.com/okpunosolomon)
 ```
