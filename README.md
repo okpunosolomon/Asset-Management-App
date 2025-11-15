@@ -1,3 +1,5 @@
+![Banner](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Banner%20(2).png?raw=true)
+
 # Asset Management App  
 ### Digitising Asset Lifecycle Governance with Microsoft Power Platform  
 
