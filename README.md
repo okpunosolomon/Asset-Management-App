@@ -49,9 +49,10 @@ The **Asset Management App** streamlines asset operations through a governed dig
 
 ---
 
-## 4. Solution Architecture  ## 4. Solution Architecture  
+## 4. Solution Architecture  
 
-![Solution Architecture](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Flwchart%20Assestsmanagement%20App.png?raw=true)
+![Solution Architecture](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Flwchart%20Assesstmanagement%20App.png?raw=true)
+
 
 **Architecture Layers:**
 
