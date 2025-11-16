@@ -4,7 +4,7 @@
 
 ## 🧠 Executive Overview
 
-The **Asset Management App** is a Model-Driven Power Apps solution designed to automate the asset lifecycle — from request to approval, allocation, and return — using **Microsoft Dataverse** and **Power Automate**.  
+The **Asset Management App** is a Model-Driven Power Apps solution designed to automate the asset lifecycle — from request to approval, allocation, and return  using **Microsoft Dataverse** and **Power Automate**.  
 The project followed the **Scrum framework** under an Agile DevOps structure, delivering incremental value across three sprints.
 
 **Objective:**  
@@ -36,7 +36,7 @@ The Azure DevOps board below visualises sprint workflow across **Backlog**, **In
 
 ---
 
-## 🗂️ Sprint 1 — Foundation & Environment Setup (Weeks 1–2)
+## 🗂️ Sprint 1: Foundation & Environment Setup (Weeks 1–2)
 
 **Focus:** Environment setup, Dataverse schema, and workflow mapping.
 
@@ -59,7 +59,7 @@ The Azure DevOps board below visualises sprint workflow across **Backlog**, **In
 
 ---
 
-## 🚀 Sprint 2 — Core Functionality & Automation (Weeks 3–4)
+## 🚀 Sprint 2: Core Functionality & Automation (Weeks 3–4)
 
 **Focus:** Develop Power Automate workflows, core business logic, and user interactions.
 
@@ -83,7 +83,7 @@ The Azure DevOps board below visualises sprint workflow across **Backlog**, **In
 
 ---
 
-## 📊 Sprint 3 — Testing, Reporting & Go-Live (Weeks 5–6)
+## 📊 Sprint 3: Testing, Reporting & Go-Live (Weeks 5–6)
 
 **Focus:** Final testing, Power BI dashboarding, UAT, and deployment.
 
