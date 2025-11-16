@@ -22,8 +22,6 @@ The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate
 * Audit transparency and compliance  
 * Role-based access and dashboards  
 
-![Dashboard Overview](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Asset%20Management%20Dashboard.png?raw=true)
-
 ---
 
 ### Business Objectives
