@@ -13,7 +13,7 @@ Business & Power Platform Consultant – SOL Ltd
 ---
 
 ### Executive Summary
-SOL Ltd required a unified solution to manage the full lifecycle of organisational assets — from request and approval to allocation and recovery. Manual handling caused inconsistencies, approval delays, and limited audit visibility.
+SOL Ltd required a unified solution to manage the full lifecycle of organisational assets, from request and approval to allocation and recovery. Manual handling caused inconsistencies, approval delays, and limited audit visibility.
 
 The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate** delivers:
 
