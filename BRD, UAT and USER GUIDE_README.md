@@ -3,9 +3,6 @@
 ---
 
 ## 1. Business Requirements Document (BRD)
-
-![Banner](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Banner%20(2).png?raw=true)
-
 ### Project Title
 **Asset Management App – Streamlining Organisational Asset Lifecycle with Microsoft Power Platform**
 
