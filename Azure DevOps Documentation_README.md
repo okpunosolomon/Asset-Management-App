@@ -28,7 +28,8 @@ Digitise and streamline asset management operations, reduce manual effort, and e
 ## 🗺️ Agile Kanban Overview
 
 The Azure DevOps board below visualises sprint workflow across **Backlog**, **In Progress**, **Review**, and **Bugs** columns, ensuring traceability of all features, tasks, and epics.
-![Azure DevOps Kanban Board](https://raw.githubusercontent.com/okpunosolomon/Asset-Management-App/main/App%20Played%20Visuals/Azure%20DevOps%20Board.png)
+![Azure DevOps Kanban Board](https://github.com/okpunosolomon/Asset-Management-App/blob/main/App%20Played%20Visuals/Azure%20DevOps%20Board.png?raw=true)
+
 
 
 ---
