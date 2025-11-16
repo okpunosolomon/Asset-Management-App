@@ -50,8 +50,6 @@ The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate
 
 ### Current Challenges
 
-![Challenge Illustration](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Asset%20Allocation%20Business%20Process%20Workflow.png?raw=true)
-
 * Manual email-based asset requests  
 * Delayed approvals and lost requests  
 * No unified visibility or audit logs  
