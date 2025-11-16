@@ -25,7 +25,7 @@ The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate
 * Audit transparency and compliance  
 * Role-based access and dashboards  
 
-![Dashboard Overview](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/defef0d3-5f4e-47c0-98de-9005b9521ab6.png?raw=true)
+![Dashboard Overview](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Asset%20Management%20Dashboard.png?raw=true)
 
 ---
 
@@ -55,7 +55,7 @@ The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate
 
 ### Current Challenges
 
-![Challenge Illustration](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/b32103d8-ed33-4c52-a678-7b0ab1b3c515.png?raw=true)
+![Challenge Illustration](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Asset%20Allocation%20Business%20Process%20Workflow.png?raw=true)
 
 * Manual email-based asset requests  
 * Delayed approvals and lost requests  
@@ -66,7 +66,7 @@ The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate
 
 ### Proposed Solution
 
-![Solution Architecture](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/e7d7f14a-1572-4b1f-bb76-f9da9172e7f2.png?raw=true)
+![Solution Architecture](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Flwchart%20Assesstmanagement%20App.png?raw=true)
 
 * **Model-Driven App:** Unified user interface for requests and tracking  
 * **Dataverse:** Backend for storing requests, allocations, and history  
@@ -90,7 +90,7 @@ The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate
 
 ### Success Metrics
 
-![Metrics Dashboard](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/a496a87c-907d-4ba9-ad04-50cf08d8ec5d.png?raw=true)
+![Metrics Dashboard](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Asset%20Allocation%20Table%20Main%20Form.png?raw=true)
 
 * 60% reduction in approval delays  
 * 100% traceability of asset movements  
@@ -139,7 +139,7 @@ Confirm that the solution meets all business requirements and operates as intend
 | UAT-008 | Role-based access | Employee login | Restricted view confirmed | ✅ |
 | UAT-009 | Notification test | Submit approval request | Email/Teams alert sent | ✅ |
 
-![Flow Overview](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/b7dfa8b6-34bd-4e30-9e75-a8cec889903b.png?raw=true)
+![Flow Overview](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Cloud%20Flow%20Approval%20Visuals/Asset%20Allocation%20Outside%20the%20Policy%20Approval%20Flow%20Request%20in%20Power%20Automate.png?raw=true)
 
 ---
 
@@ -158,7 +158,7 @@ Confirm that the solution meets all business requirements and operates as intend
 ### Application Name
 **Asset Management App** – SOL Ltd  
 
-![App Interface](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/91de6abd-b09a-4ac6-84e0-857b717a19c5.png?raw=true)
+![App Interface](https://github.com/okpunosolomon/Asset-Management-App/blob/main/App%20Played%20Visuals/Asset%20Form%20View.png?raw=true)
 
 ---
 
@@ -189,7 +189,7 @@ Confirm that the solution meets all business requirements and operates as intend
 
 #### 2. Approvals
 - Managers receive approval email/Teams alerts  
-- Approve/reject within app or via link
+- Approve/reject within app or via link  
 
 #### 3. Allocation
 - IT Admin allocates from **Assets Table**  
@@ -200,11 +200,11 @@ Confirm that the solution meets all business requirements and operates as intend
 - Dataverse changes asset status to *Available*
 
 #### 5. Outside Policy Requests
-- Flow triggers secondary approval for policy violations
+- Flow triggers secondary approval for policy violations  
 
 #### 6. Dashboards
 
-![Dashboard Example](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/defef0d3-5f4e-47c0-98de-9005b9521ab6.png?raw=true)
+![Dashboard Example](https://github.com/okpunosolomon/Asset-Management-App/blob/main/App%20Played%20Visuals/Asset%20Management%20Dashboard.png?raw=true)
 
 * Access visual summary of pending approvals, total assets, and departmental distribution  
 
