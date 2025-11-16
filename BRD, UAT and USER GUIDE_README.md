@@ -83,8 +83,6 @@ The Model-Driven Power App built on **Microsoft Dataverse** and **Power Automate
 
 ### Success Metrics
 
-![Metrics Dashboard](https://github.com/okpunosolomon/Asset-Management-App/blob/main/Solution%20Visuals/Asset%20Allocation%20Table%20Main%20Form.png?raw=true)
-
 * 60% reduction in approval delays  
 * 100% traceability of asset movements  
 * 90% fewer manual data errors  
