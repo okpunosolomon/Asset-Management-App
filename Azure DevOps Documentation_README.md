@@ -139,4 +139,36 @@ The Azure DevOps board below visualises sprint workflow across **Backlog**, **In
 
 ## 📁 Repository Reference Map
 
+```
+
+📂 Documentation/
+┣ BRD, UAT and USER GUIDE_README.md
+┣ README_Agile.md  ← (this document)
+📂 Solution Visuals/
+┣ Azure DevOps Board.png
+┣ Asset Management Architecture.png
+📂 App Played Visuals/
+┣ Dashboard.png
+┣ Contact & Asset Forms
+📂 Cloud Flow Approval Visuals/
+┣ Power Automate Approval Flow.png
+📂 Solution Zip File/
+┗ AssetManagementApp_Managed.zip
+
+```
+
+---
+
+## 📞 Contact
+
+**Consultant / Scrum Master:** Solomon Okpuno  
+📧 [okpunosolomon20@gmail.com](mailto:okpunosolomon20@gmail.com)  
+🔗 [linkedin.com/in/solomon-okpuno-51a907312](https://linkedin.com/in/solomon-okpuno-51a907312)  
+💻 [github.com/okpunosolomon](https://github.com/okpunosolomon)
+
+---
+
+> *This Agile report summarises end-to-end project delivery within an Azure DevOps environment, providing traceable evidence of successful Power Platform implementation, testing, and release management.*
+
+
 
